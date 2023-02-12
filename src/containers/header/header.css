@@ -115,10 +115,16 @@
     }
 }
 
+/* @media screen and (max-width: 700px){
+.gpt3__header {
+    padding: 2rem 4rem !important;
+}
+} */
+
 @media screen and (max-width: 650px) {
 
     .gpt3__header {
-        padding: 4rem 4rem !important;
+        padding: 4rem 2rem !important;
     }
 
     .gpt3__header h1{
